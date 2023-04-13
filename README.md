@@ -16,7 +16,7 @@ To run this program, you need to have [Python 3.x](https://www.python.org/downlo
 - Clone the repository or download the source code.
 - Make sure you have Python 3.x installed on your system.
 ## Usage
-1. Run the password.py file using Python.
-2. A GUI window will appear with options for password length, character types, and whether or not to include numbers and symbols.
+1. Run the **password.py** file using Python.
+2. A GUI window will appear spinbox password length.
 3. Click the **"Generate"** button to generate a new password.
 4. Click the **"Copy"** button to copy the generated password to your clipboard.
