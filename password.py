@@ -46,7 +46,7 @@ passwordlabel.grid(pady=10)#to see the label on the screen
 lengthlabel=Label(root,text="Passowrd Length",font=('cairo',13,'bold'),bg=mycolor,fg=fontcolor)
 lengthlabel.grid()
 
-length_Box=Spinbox(root,from_=6,to_=18,font=Font,width=5,wrap=True)
+length_Box=Spinbox(root,from_=8,to_=32,font=Font,width=5,wrap=True)
 length_Box.grid()
 
 generateButton=Button(root,text='Generate',font=(Font,10,'bold'),bg=mycolor,command=generator)
@@ -55,7 +55,7 @@ generateButton.grid(pady=5)
 passwordField=Entry(root,width=20,bd=2,font=Font)
 passwordField.grid()
 
-copyButton=Button(root,text='Copy',font=(Font,10,'bold'),bg=mycolor,command=copy)
+copyButton=Button(root,text='Copy to Clipboard',font=(Font,10,'bold'),bg=mycolor,command=copy)
 copyButton.grid(pady=5)
 
 root.mainloop()#keep a window
