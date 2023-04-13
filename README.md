@@ -13,10 +13,10 @@ To run this program, you need to have Python 3.x installed on your computer. You
 - I use [secrets library](https://docs.python.org/3/library/secrets.html) which is the best source of cryptographic randomness.
 
 ## Installation
-To use the password generator, simply download the repository and open the **password.py** file in your web browser.
-
+- Clone the repository or download the source code.
+- Make sure you have Python 3.x installed on your system.
 ## Usage
-* Run the password.py file using Python.
-* A GUI window will appear with options for password length, character types, and whether or not to include numbers and symbols.
-* Click the **"Generate"** button to generate a new password.
-* Click the **"Copy"** button to copy the generated password to your clipboard.
+1. Run the password.py file using Python.
+2. A GUI window will appear with options for password length, character types, and whether or not to include numbers and symbols.
+3. Click the **"Generate"** button to generate a new password.
+4. Click the **"Copy"** button to copy the generated password to your clipboard.
