@@ -1,4 +1,4 @@
-# strong password generator
+# Strong Password Generator with Tkinter GUI
 This is a simple password generator application that allows users to generate strong, unique, and secure passwords for their online accounts.
 ## Features
 - Generate a random password with a length between 8 and 32 characters.
