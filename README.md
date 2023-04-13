@@ -1,5 +1,9 @@
 # Strong Password Generator with Tkinter GUI
-This is a simple password generator application that allows users to generate strong, unique, and secure passwords for their online accounts.
+This is a simple Python program that generates strong and unique passwords using a GUI built with the Tkinter library.The program generates strong passwords of varying length, containing a combination of uppercase and lowercase letters, digits, and symbols.
+
+## Prerequisites
+To run this program, you need to have Python 3.x installed on your computer. You can download Python from the official website.
+
 ## Features
 - Generate a random password with a length between 8 and 32 characters.
 - Include uppercase and lowercase letters, numbers, and special characters.
@@ -12,8 +16,7 @@ This is a simple password generator application that allows users to generate st
 To use the password generator, simply download the repository and open the **password.py** file in your web browser.
 
 ## Usage
-- Open the index.html file in your web browser.
-- Choose the desired length for your password.
-- Check the boxes for the types of characters you want to include in your password.
-- Click the **"Generate"** button.
-- Copy the generated password to your clipboard by clicking the **"Copy to Clipboard"** button.
+-Run the password.py file using Python.
+-A GUI window will appear with options for password length, character types, and whether or not to include numbers and symbols.
+-Click the **"Generate"** button to generate a new password.
+-Click the **"Copy"** button to copy the generated password to your clipboard.
