@@ -9,4 +9,5 @@ This is a simple password generator application that allows users to generate st
 - I use [secrets library](https://docs.python.org/3/library/secrets.html) which is the best source of cryptographic randomness.
 
 ## Installation
-To use the password generator, simply download the repository and open the password.py file in your web browser.
+To use the password generator, simply download the repository and open the **password.py** file in your web browser.
+
