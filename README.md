@@ -11,3 +11,9 @@ This is a simple password generator application that allows users to generate st
 ## Installation
 To use the password generator, simply download the repository and open the **password.py** file in your web browser.
 
+## Usage
+- Open the index.html file in your web browser.
+- Choose the desired length for your password.
+- Check the boxes for the types of characters you want to include in your password.
+- Click the **"Generate"** button.
+- Copy the generated password to your clipboard by clicking the **"Copy to Clipboard"** button.
