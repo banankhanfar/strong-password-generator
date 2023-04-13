@@ -20,5 +20,7 @@ To run this program, you need to have [Python 3.x](https://www.python.org/downlo
 2. A GUI window will appear spinbox password length.
 
  ![image](https://user-images.githubusercontent.com/87866914/231885820-a27665f1-9121-4a5d-9c58-4cb5f26efea3.png)
+
 3. Click the **"Generate"** button to generate a new password.
+
 4. Click the **"Copy"** button to copy the generated password to your clipboard.
